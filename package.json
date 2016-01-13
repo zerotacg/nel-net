@@ -24,13 +24,7 @@
       "email": "tobias.peters@kreativeffekt.at"
     }
   ],
-  "license": "MIT",
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "https://github.com/zerotacg/nel-net/blob/master/LICENSE"
-    }
-  ],
+  "license": "AGPL-3.0",
   "bugs": {
     "url": "https://github.com/zerotacg/nel-net/issues"
   },
@@ -40,10 +34,13 @@
     "chai": "^3.4.1",
     "jshint": "^2.8.0",
     "jspm": "^0.16.15",
-    "mocha": "^2.3.4"
+    "mocha": "^2.3.4",
+    "sinon": "^1.17.2",
+    "sinon-chai": "^2.8.0"
   },
   "jspm": {
     "name": "nel/net",
+    "version": "master",
     "directories": {
       "lib": "src/nel/net"
     },

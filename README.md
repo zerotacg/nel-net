@@ -1,1 +1,1 @@
-# nel-io [![Build Status](https://travis-ci.org/zerotacg/nel-io.svg?branch=master)](https://travis-ci.org/zerotacg/nel-io)
+# nel-net [![Build Status](https://travis-ci.org/zerotacg/nel-net.svg?branch=master)](https://travis-ci.org/zerotacg/nel-net)
